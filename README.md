@@ -1,5 +1,7 @@
 # A Million Weather App
 
+![A Million Weather App](https://res.cloudinary.com/d74fh3kw/image/upload/v1582579277/million_weather_dntrb6.jpg 'A Million Weather App')
+
 This app has a backend and a frontend. You need both servers to be running for the app to work. The backend has the weather API, and the front end has the UI.
 
 Download/Clone this repo to a local folder on your computer.
@@ -16,12 +18,6 @@ Install the dependencies
 npm install or yarn install
 ```
 
-Start the server
-
-```bash
-npm run dev or yarn dev
-```
-
 ## Client
 
 ## Project Setup Front-End
@@ -34,8 +30,12 @@ Install the dependencies
 npm install or yarn install
 ```
 
-Start the App
+## Run the App
+
+cd into the backend folder and run the code below
 
 ```bash
-npm run serve or yarn serve
+npm run servers or yarn servers
 ```
+
+App running on [http://localhost:8080/](http://localhost:8080/)
