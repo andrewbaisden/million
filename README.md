@@ -1,6 +1,6 @@
 # A Million Weather App
 
-![A Million Weather App](https://res.cloudinary.com/d74fh3kw/image/upload/v1582579277/million_weather_dntrb6.jpg 'A Million Weather App')
+![A Million Weather App](/img/million.jpeg 'A Million Weather App')
 
 This app has a backend and a frontend. You need both servers to be running for the app to work. The backend has the weather API, and the front end has the UI.
 
